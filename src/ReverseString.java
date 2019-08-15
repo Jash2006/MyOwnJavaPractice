@@ -11,5 +11,6 @@ public class ReverseString {
             rev=rev + name.charAt(i);
         }
         System.out.println("The reverse of " +name+ " is "+rev);
+        //kjoklkl
     }
 }
